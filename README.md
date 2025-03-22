@@ -2,7 +2,7 @@
 
 Music-DL v2 es una aplicación de escritorio que permite descargar música desde YouTube Music con formato de audio FLAC (sin pérdidas). La aplicación está desarrollada con Python y PyQt6.
 
-<img src="app/resources/icons/app.png" alt="Captura de pantalla de Music-DL v2" width="600" height="600">
+<img src="app/resources/icons/app.png" alt="Captura de pantalla de Music-DL v2" width="300" height="300">
 
 ## Características
 
