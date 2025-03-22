@@ -10,8 +10,6 @@ import os
 import re
 import requests
 from app.core import config
-from time import sleep
-from datetime import datetime
 from PyQt6.QtWidgets import (
     QMainWindow,
     QApplication,
